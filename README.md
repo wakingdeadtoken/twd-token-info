@@ -43,7 +43,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 - 🌐 [Official Website](https://www.wakingdeadtoken.com)
 - 📃 [Whitepaper](./TWD_Whitepaper.pdf)
-- 🛠 [Smart Contract Source](./WKDToken.sol)
+- 🛠 [Smart Contract Source](./TWDToken.sol)
 - 📢 [Twitter (X)](https://x.com/TWD_Token)
 - 🧑‍🤝‍🧑 [Telegram](https://t.me/TWDToken_official)
 - 🎮 [Discord](https://discord.gg/2CxnDTpb)
